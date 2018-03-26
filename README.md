@@ -1,6 +1,7 @@
 # Musclehub
 Capstone project for the Intro to Data Analysis course at Codeacademy
 
-* TASK 1: PULLING AND ANALYZING DATA
-* TASK 2: QUALITATIVE DATA
-* TASK 3: CREATE A SLIDE DECK
+* The PDF contains the presentation of the results
+* The .py file contains the research made
+* /input folder contains the files and documents provided by Codeacademy as inputs
+* /output folder contains the charts generated
